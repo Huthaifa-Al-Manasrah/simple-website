@@ -8,8 +8,8 @@ nav{
     padding: 20px;
     display: flex;
     width: 100%;
-    justify-content: space-evenly;
-    background-color: rgb(255, 255, 255);
+    justify-content: space-evenly; 
+    background-color: rgb(255, 203, 30); 
     position: fixed;
 }
 
@@ -34,7 +34,7 @@ section{
 footer{
     padding: 20px;
     display: flex;
-    background-color: white; 
+    background-color: rgb(255, 203, 30);
     justify-content: space-evenly;
 } 
 
